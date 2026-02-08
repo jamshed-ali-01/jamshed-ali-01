@@ -1,6 +1,6 @@
 <!-- 🌟 Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Bilal+Ali+Ahmed+Mirani+👋;Full+Stack+Developer+%7C+Laravel+%2B+MERN;AI+Automation+%7C+DevOps+%7C+Cloud;Building+Intelligent+Digital+Experiences!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Jamshed+👋;Full+Stack+Developer+%7C+Laravel+%2B+MERN;AI+Automation+%7C+DevOps+%7C+Cloud;Building+Intelligent+Digital+Experiences!+🚀" alt="Typing SVG" />
 </p>
 
 ---
